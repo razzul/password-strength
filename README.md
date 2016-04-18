@@ -8,4 +8,3 @@ Measure password strength using html,css,js
 ![alt tag](https://raw.githubusercontent.com/razzul/password-strength/master/pix/password-strength-4.png)
 ![alt tag](https://raw.githubusercontent.com/razzul/password-strength/master/pix/password-strength-5.png)
 ![alt tag](https://raw.githubusercontent.com/razzul/password-strength/master/pix/password-strength-6.png)
-![alt tag](https://raw.githubusercontent.com/razzul/password-strength/master/pix/password-strength-7.png)
